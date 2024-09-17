@@ -1,2 +1,3 @@
 # DevOpsJourney
-Hi Everyone! Welcome to my GitHub Account
+Hi Everyone! Yah I'm Hoangtd
+Welcome to my GitHub Account.
